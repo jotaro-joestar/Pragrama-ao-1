@@ -14,3 +14,19 @@ header {
   margin: 0 16px;
   padding: 24px 0;
   fint-size: 24px;}
+.escola {
+  background-image: linear-grandient(#383D58,#00c0eb);
+  color: white;
+  display: flex;
+}
+.escola-conteudo{
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.escola-imagem{
+  width: 25%;
+}
+.esola-titulo{
+  padding: 24px 0;}
